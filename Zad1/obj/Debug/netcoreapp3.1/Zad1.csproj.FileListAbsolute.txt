@@ -1,0 +1,14 @@
+C:\Users\Marko\OneDrive\Radna površina\Zad1\bin\Debug\netcoreapp3.1\Zad1.exe
+C:\Users\Marko\OneDrive\Radna površina\Zad1\bin\Debug\netcoreapp3.1\Zad1.deps.json
+C:\Users\Marko\OneDrive\Radna površina\Zad1\bin\Debug\netcoreapp3.1\Zad1.runtimeconfig.json
+C:\Users\Marko\OneDrive\Radna površina\Zad1\bin\Debug\netcoreapp3.1\Zad1.runtimeconfig.dev.json
+C:\Users\Marko\OneDrive\Radna površina\Zad1\bin\Debug\netcoreapp3.1\Zad1.dll
+C:\Users\Marko\OneDrive\Radna površina\Zad1\bin\Debug\netcoreapp3.1\Zad1.pdb
+C:\Users\Marko\OneDrive\Radna površina\Zad1\obj\Debug\netcoreapp3.1\Zad1.csproj.AssemblyReference.cache
+C:\Users\Marko\OneDrive\Radna površina\Zad1\obj\Debug\netcoreapp3.1\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\OneDrive\Radna površina\Zad1\obj\Debug\netcoreapp3.1\Zad1.AssemblyInfoInputs.cache
+C:\Users\Marko\OneDrive\Radna površina\Zad1\obj\Debug\netcoreapp3.1\Zad1.AssemblyInfo.cs
+C:\Users\Marko\OneDrive\Radna površina\Zad1\obj\Debug\netcoreapp3.1\Zad1.csproj.CoreCompileInputs.cache
+C:\Users\Marko\OneDrive\Radna površina\Zad1\obj\Debug\netcoreapp3.1\Zad1.dll
+C:\Users\Marko\OneDrive\Radna površina\Zad1\obj\Debug\netcoreapp3.1\Zad1.pdb
+C:\Users\Marko\OneDrive\Radna površina\Zad1\obj\Debug\netcoreapp3.1\Zad1.genruntimeconfig.cache
